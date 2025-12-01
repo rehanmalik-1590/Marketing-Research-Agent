@@ -66,7 +66,7 @@ Copy code
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/MRizwanMalik/Marketing-Research-Agent.git
+   git clone https://github.com/rehanmalik-1590/Marketing-Research-Agent.git
    cd Marketing-Research-Agent
 Create a virtual environment and activate it
 
